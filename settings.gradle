@@ -1,0 +1,2 @@
+rootProject.name='FunFacts1'
+include ':app'
